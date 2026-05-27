@@ -4,12 +4,9 @@ description: Tổng quan tài liệu, phạm vi, đối tượng sử dụng và
 
 # A. Giới thiệu chung
 
-📘 **Smart eLearning – User Manual dành cho Tenant Admin**\
 Tài liệu hướng dẫn sử dụng Smart eLearning được xây dựng nhằm hỗ trợ người quản trị trong quá trình tiếp cận, triển khai và khai thác hệ thống theo mô hình SaaS.
 
 Nội dung tài liệu được tổ chức theo từng nhóm chức năng và nghiệp vụ, giúp người dùng dễ dàng tra cứu và áp dụng vào quá trình quản trị, vận hành đào tạo trên hệ thống.
-
-***
 
 ### Cách sử dụng tài liệu
 

@@ -4,12 +4,7 @@ description: Hướng dẫn quản trị và khai thác các tính năng trên h
 
 # B. Hướng dẫn sử dụng
 
-Phần này mô tả phạm vi chức năng của hệ thống Smart eLearning theo từng nhóm nghiệp vụ và gói dịch vụ được hỗ trợ.
+Phần này cung cấp hướng dẫn sử dụng và vận hành hệ thống Smart eLearning dành cho Quản trị viên (Tenant Admin) theo từng nhóm chức năng và nghiệp vụ trên hệ thống.
 
-Thông qua nội dung này, người dùng có thể:
-
-* Hiểu phạm vi tính năng của hệ thống
-* Xác định các nhóm chức năng được hỗ trợ
-* Đối chiếu sự khác biệt giữa các gói dịch vụ (nếu áp dụng)
-* Chủ động xác định phạm vi sử dụng và triển khai phù hợp
+Nội dung được tổ chức theo trình tự từ thao tác cơ bản đến các chức năng quản trị chuyên sâu, giúp người dùng dễ dàng tiếp cận, tra cứu và áp dụng trong quá trình vận hành đào tạo.
 
