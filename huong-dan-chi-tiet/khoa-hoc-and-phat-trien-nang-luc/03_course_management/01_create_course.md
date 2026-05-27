@@ -25,7 +25,7 @@ Course Management\
 
 1. Chọn Create Course
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Nhập thông tin khóa học
 2. Cấu hình thời gian học

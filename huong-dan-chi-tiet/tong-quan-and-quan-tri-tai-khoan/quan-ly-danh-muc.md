@@ -34,16 +34,20 @@ description: >-
 
 ### 2. Thao tác Khởi tạo Danh mục mới
 
-Để thêm mới một danh mục hoặc phòng ban vào hệ thống, bạn thực hiện theo các bước sau:
+Để thêm mới một danh mục vào hệ thống, bạn thực hiện theo các bước sau:
 
-* Bước 1: Nhấn nút \[Thêm danh mục] ở góc bên phải.
-* Bước 2: Điền các trường thông tin bắt buộc trong Form:
-  * Tên danh mục: Tên phòng ban hoặc nhóm nội dung (Ví dụ: _Tổng công ty, IT, Ban lãnh đạo_).
-  * Loại danh mục: Chọn đúng phân loại phù hợp (Ví dụ: Chọn _Đơn vị_ nếu là cấu trúc phòng ban).
-  * Danh mục cha: Nếu là phòng ban con, chọn đơn vị cấp trên trực tiếp (Ví dụ: Chọn danh mục cha là _Tổng công ty_, danh mục con là _IT_ để tạo cấu trúc phân cấp thụt lề `└─`).
-* Bước 3: Nhấn \[Lưu] để hoàn tất.
+* **Bước 1:** Nhấn nút \[**Thêm danh mục**] ở góc bên phải.
+* **Bước 2:** Điền các trường thông tin bắt buộc trong Form:
+  * **Tên danh mục:** Tên phòng ban hoặc nhóm nội dung (Ví dụ: _Tổng công ty, IT, Ban lãnh đạo_).
+  * **Loại danh mục:** Chọn đúng phân loại phù hợp (Ví dụ: Chọn _Đơn vị_ nếu là cấu trúc phòng ban).
+  * **Danh mục cha:** Nếu là phòng ban con, chọn đơn vị cấp trên trực tiếp (Ví dụ: Chọn danh mục cha là _Tổng công ty_, danh mục con là _IT_ để tạo cấu trúc phân cấp thụt lề `└─`).
+* **Bước 3:** Nhấn \[**Lưu**] để hoàn tất.
 
-> \[_Giao diện Form Thêm mới Danh mục_] _Ý nghĩa ảnh: Chụp màn hình pop-up Form khi bấm nút Thêm danh mục._
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><em>Màn hình khởi tạo danh mục mới</em></p>
+
+
 
 ***
 

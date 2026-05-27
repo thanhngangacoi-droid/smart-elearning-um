@@ -22,6 +22,6 @@ description: >-
 * Tại trang chủ, click vào Mũi tên xổ xuống cạnh Ảnh đại diện (Góc trên cùng bên phải).
 * Chọn tính năng \[**Dashboard quản trị**].
 
-> <p align="center"><img src="../../.gitbook/assets/image (1).png" alt=""></p>
+> <p align="center"><img src="../../.gitbook/assets/image (1) (1).png" alt=""></p>
 >
 > <p align="center">Góc phải màn hình trang chủ</p>
