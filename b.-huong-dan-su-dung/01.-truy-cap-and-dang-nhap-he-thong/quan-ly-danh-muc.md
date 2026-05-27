@@ -6,6 +6,12 @@ description: >-
 
 # Quản lý danh mục
 
+### Tổng quan
+
+Chức năng **Quản lý danh mục** hỗ trợ Quản trị viên thiết lập, tổ chức và duy trì các dữ liệu dùng chung trên hệ thống Smart eLearning.
+
+Danh mục đóng vai trò dữ liệu nền tảng, phục vụ việc quản lý cơ cấu tổ chức, phân loại thông tin và hỗ trợ các nghiệp vụ đào tạo trên toàn hệ thống.
+
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><em>Màn hình tổng quan dữ liệu danh mục</em></p>
