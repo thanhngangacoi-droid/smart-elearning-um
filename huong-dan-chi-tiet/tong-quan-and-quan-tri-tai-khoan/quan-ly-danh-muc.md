@@ -22,7 +22,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-> <p align="center"><em>Thanh bộ lọc tìm kiếm dữ liệu</em></p>
+<p align="center"><em>Thanh bộ lọc tìm kiếm dữ liệu</em></p>
 
 * **Cấu hình hiển thị và Phân trang:**
   * **Số lượng bản ghi (Cỡ trang):** Hệ thống mặc định hiển thị 10 bản ghi trên mỗi trang. Bạn có thể thay đổi số lượng hiển thị bằng cách chọn ô tùy chọn Cỡ trang ở góc dưới bên phải (Hỗ trợ hiển thị: _5, 10, 20, 50_ bản ghi).
@@ -30,7 +30,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-> <p align="center"><em>Thanh phân trang dữ liệu</em></p>
+<p align="center"><em>Thanh phân trang dữ liệu</em></p>
 
 ### 2. Thao tác Khởi tạo Danh mục mới
 
