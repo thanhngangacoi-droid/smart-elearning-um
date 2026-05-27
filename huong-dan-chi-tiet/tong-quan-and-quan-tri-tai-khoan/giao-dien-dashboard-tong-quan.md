@@ -16,7 +16,7 @@ Thanh menu bên trái là trục xương sống của hệ thống, chứa toàn
 
 <p align="center"><img src="../../.gitbook/assets/image (11).png" alt=""></p>
 
-<p align="center"><em>Màn hình menu trái của giao diện quản trị viên</em></p>
+<p align="center"><em>Menu trái của giao diện quản trị viên</em></p>
 
 * **TỔNG QUAN:** Nhóm tính năng cốt lõi để theo dõi chỉ số, cấu hình danh mục tổ chức, quản lý tài khoản người dùng và phân quyền vai trò.
 * **KHÓA HỌC & NĂNG LỰC:** Phân hệ chuyên sâu để xây dựng bài giảng, cấu hình lộ trình học tập, thiết lập khung năng lực và kỹ năng nhân sự.

@@ -8,7 +8,7 @@
 * [HƯỚNG DẪN CHI TIẾT](huong-dan-chi-tiet/README.md)
   * [Tổng quan & Quản trị tài khoản](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/README.md)
     * [Giao diện Dashboard tổng quan](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/giao-dien-dashboard-tong-quan.md)
-    * [Cấu hình Danh mục dữ liệu](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/cau-hinh-danh-muc-du-lieu.md)
+    * [Quản lý danh mục](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/quan-ly-danh-muc.md)
     * [Quản lý tài khoản Người dùng](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/quan-ly-tai-khoan-nguoi-dung.md)
     * [Quản lý Vai trò và Quyền](huong-dan-chi-tiet/tong-quan-and-quan-tri-tai-khoan/quan-ly-vai-tro-va-quyen.md)
   * [Khóa học & Phát triển năng lực](huong-dan-chi-tiet/khoa-hoc-and-phat-trien-nang-luc/README.md)
