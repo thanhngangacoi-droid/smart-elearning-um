@@ -6,42 +6,85 @@ description: >-
 
 # Giao diện Dashboard tổng quan
 
+Thông qua Dashboard, người quản trị có thể:
+
+* Theo dõi nhanh các chỉ số vận hành quan trọng
+* Giám sát hoạt động mới nhất trên hệ thống
+* Truy cập nhanh tới các tác vụ quản trị phổ biến
+* Nắm bắt tình trạng đào tạo mà không cần truy cập từng phân hệ riêng lẻ
+
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><em>Dashboard tổng quan</em></p>
 
 ## 1. Toàn cảnh Thanh điều hướng (Menu trái)
 
-Thanh menu bên trái là trục xương sống của hệ thống, chứa toàn bộ các phân hệ quản trị được phân nhóm khoa học theo nghiệp vụ:
+Thanh điều hướng bên trái là khu vực chứa các phân hệ quản trị chính của Smart eLearning. Các chức năng được tổ chức theo nhóm nghiệp vụ nhằm hỗ trợ người dùng điều hướng và thao tác thuận tiện hơn.
 
 <p align="center"><img src="../../.gitbook/assets/image (11).png" alt=""></p>
 
 <p align="center"><em>Menu trái của giao diện quản trị viên</em></p>
 
-* **TỔNG QUAN:** Nhóm tính năng cốt lõi để theo dõi chỉ số, cấu hình danh mục tổ chức, quản lý tài khoản người dùng và phân quyền vai trò.
-* **KHÓA HỌC & NĂNG LỰC:** Phân hệ chuyên sâu để xây dựng bài giảng, cấu hình lộ trình học tập, thiết lập khung năng lực và kỹ năng nhân sự.
-* **THI & KIỂM TRA:** Trung tâm khảo thí hỗ trợ quản lý ngân hàng câu hỏi, ma trận khung đề và tổ chức các đợt thi trực tuyến.
-* **HỆ THỐNG:** Khu vực dành riêng cho việc thay đổi giao diện nhận diện thương hiệu (Branding), cấu hình chứng chỉ và các mẫu Email tự động.
+Các nhóm chức năng chính:
 
-### 2. Toàn cảnh Không gian số liệu & Thao tác nhanh (Khu vực giữa)
+<table><thead><tr><th width="206">PHÂN HỆ</th><th>VAI TRÒ</th></tr></thead><tbody><tr><td>Tổng quan</td><td>Theo dõi chỉ số hệ thống, quản lý danh mục, người dùng và phân quyền</td></tr><tr><td>Khóa học &#x26; Năng lực</td><td>Quản lý khóa học, học liệu, lộ trình học và năng lực</td></tr><tr><td>Thi &#x26; Kiểm tra</td><td>Quản lý ngân hàng câu hỏi, khung đề và tổ chức thi</td></tr><tr><td>Hệ thống</td><td>Thiết lập Branding, chứng nhận và thông báo hệ thống</td></tr><tr><td>Báo cáo</td><td>Tổng hợp dữ liệu, chiết xuất báo cáo</td></tr></tbody></table>
 
-Đây là nơi hiển thị báo cáo nhanh về "sức khỏe" hệ thống và cung cấp các lối tắt tác vụ để bạn xử lý công việc nhanh hơn:
+## 2. Toàn cảnh Không gian số liệu & Thao tác nhanh (Khu vực giữa)
+
+Khu vực trung tâm của Dashboard hiển thị báo cáo nhanh về tình trạng vận hành và cung cấp các lối tắt hỗ trợ xử lý công việc hiệu quả hơn.
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 <p align="center"><em>Màn hình không gian số liệu của quản trị viên</em></p>
 
+Dashboard trung tâm thường bao gồm các nhóm thông tin sau:
+
 #### A. Khối chỉ số vận hành
 
-Bao gồm 4 thẻ thông tin cập nhật tự động: Người dùng hoạt động, Tổng khóa học, Tỷ lệ hoàn thành, và Ghi danh mới.
+Khối chỉ số vận hành hiển thị nhanh các dữ liệu được hệ thống cập nhật tự động, hỗ trợ người quản trị theo dõi tình trạng hoạt động theo thời gian thực.
 
-* _(Lưu ý: Nếu hệ thống đang chờ đồng bộ dữ liệu, các chỉ số này tạm thời sẽ xuất hiện dưới dạng ký tự `--`)_.
+Ví dụ:
+
+* Người dùng hoạt động
+* Tổng khóa học
+* Tỷ lệ hoàn thành
+* Ghi danh mới
+
+> 💡 **Lưu ý**
+>
+> Trong trường hợp hệ thống đang chờ đồng bộ dữ liệu, một số chỉ số có thể tạm thời hiển thị dưới dạng:
+>
+> ```
+> --
+> ```
 
 #### B. Khối hoạt động gần đây
 
-Bảng nhật ký hiển thị các tiến trình vận hành mới nhất của hệ thống, giúp bạn giám sát trạng thái công việc (_Đang xử lý_, _Chờ duyệt_, _Hoàn tất_) và đơn vị phụ trách tương ứng (_System_, _Admin_, _Content Team_).
+Khối hoạt động gần đây hiển thị nhật ký các sự kiện hoặc thao tác mới phát sinh trên hệ thống, hỗ trợ người quản trị theo dõi tiến trình và giám sát trạng thái xử lý.
+
+Thông tin thường bao gồm:
+
+* Trạng thái công việc\
+  &#xNAN;_(Đang xử lý / Chờ duyệt / Hoàn tất)_
+* Đơn vị hoặc nhóm thực hiện\
+  &#xNAN;_(System / Admin / Content Team)_
 
 #### C. Khối thao tác nhanh
 
-Nằm ở dưới cùng của giao diện, cung cấp các nút bấm tắt giúp Quản trị viên truy cập thẳng vào trang cấu hình Khóa học, Danh mục, Năng lực hoặc Kỹ năng mà không cần phải tìm kiếm trên menu trái.
+Khối thao tác nhanh cung cấp các nút truy cập trực tiếp tới những chức năng được sử dụng thường xuyên.
+
+Thông qua khu vực này, Quản trị viên có thể truy cập nhanh tới:
+
+* Quản lý khóa học
+* Danh mục
+* Năng lực
+* Kỹ năng
+
+mà không cần tìm kiếm lại trên thanh điều hướng bên trái.
+
+***
+
+> 💡 **Lưu ý**
+>
+> Thành phần hiển thị trên Dashboard có thể thay đổi tùy theo cấu hình hệ thống, phạm vi phân quyền và gói dịch vụ được kích hoạt.
 
